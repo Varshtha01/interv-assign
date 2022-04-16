@@ -1,0 +1,21 @@
+INTERVIEW QUESTIONS ASSINGMENT
+Q1.What are mutable and immutable datatypes?
+Q2.Can a list inside a tuple be edited?
+Q3.What is a sequence?
+Q4.What keyword is used to end loop?
+Q5.What module is used for generating random values?
+Q6.What keyword is used to skip back to beginning of loop?
+Q7.What is range?
+Q8.Explain None type?
+Q9.Is set ordered?
+Q10.Difference between set and frozenset?
+Q11.What is pass and continue ?
+Q12.What are modules and packages?
+Q13.Explain slicing ?
+Q14.What is negative indexing?
+Q15.Can a function be reused?
+Q16.Do functions reduce time complexity of the program?
+Q17.Do functions always return a value?
+Q18.keyword used for functions?
+Q19.Two main parts of every function?
+Q20.Difference between parameter and argument?
